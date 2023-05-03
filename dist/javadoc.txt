@@ -1,0 +1,2 @@
+javadoc yorumları:
+public class Deneme {    private boolean calisiyor;    /**    /**            /**/String motorNo/**/) {    /**    public void calistir() {    /**    void durdur() {    public String getMotorNo(int x, //        /** //    public String toString() {

@@ -1,2 +1,0 @@
-Tek satır yorumları:
-public class Deneme {    private boolean calisiyor;        ///*        //*        //*        //* */                //    public void calistir() {        ///**        // * calisiyor true yapılıyor        // */    void durdur() {    public String getMotorNo(int x, //        // motor no getir    public String toString() {        // durum belirlenmesi //
